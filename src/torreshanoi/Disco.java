@@ -5,7 +5,7 @@ import java.awt.*;
 /**
  * Un disco de las torres de Hanoi.
  * 
- * @author Maestros computaci�n II
+ * @author Maestros computación II
  * @version Primavera 2003
  */
 public class Disco {
